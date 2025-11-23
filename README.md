@@ -49,12 +49,14 @@ endmodule
 
 
 **Output:**
-![WhatsApp Image 2025-11-23 at 20 12 05_c5574a7b](https://github.com/user-attachments/assets/3ebf4730-f340-4c9c-b57f-bf2ea028366e)
-![WhatsApp Image 2025-11-23 at 20 12 08_a768e512](https://github.com/user-attachments/assets/ddcd744a-ca86-4b69-9850-07c8b3efac8d)
+![WhatsApp Image 2025-11-23 at 20 25 25_95c4be3c](https://github.com/user-attachments/assets/acddf5a0-32ac-467e-a9b8-3836345af0f9)
+
+![WhatsApp Image 2025-11-23 at 20 25 25_241e814e](https://github.com/user-attachments/assets/71d72c25-0df5-4503-ab40-aa1fb6bacf1a)
+
 
 **RTL**
-![WhatsApp Image 2025-11-23 at 20 12 05_dcbb47d6](https://github.com/user-attachments/assets/287ac8cc-13bd-4fe5-8fc9-a72553cc469c)
-![WhatsApp Image 2025-11-23 at 20 12 07_95ac6c72](https://github.com/user-attachments/assets/8244cf4c-fcee-4f2d-ac8b-bd9fc4bd1f2b)
+![WhatsApp Image 2025-11-23 at 20 25 26_31b9e323](https://github.com/user-attachments/assets/9b845c0d-30a5-46a1-804f-163e7c4f8e13)
+![WhatsApp Image 2025-11-23 at 20 25 27_4da14673](https://github.com/user-attachments/assets/ec39baf8-e734-41bd-b1e8-92969ce6ba5e)
 
 **Timing Diagram**
 
